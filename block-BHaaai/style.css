@@ -1,0 +1,19 @@
+body{
+    background-color: #22386A;
+    color: white;
+}
+header{
+    text-align: center;
+}
+img{
+    width: 250px;
+    
+}
+h2{
+    color: #32BA66;
+}
+a{
+    color: red;
+    margin-right: 24px;
+}
+
