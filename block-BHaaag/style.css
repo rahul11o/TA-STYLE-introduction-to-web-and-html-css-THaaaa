@@ -1,46 +1,11 @@
-h1{ 
-    color: darkblue;
-    font-size: 35px;
-}
 body{
-    background-color: whitesmoke;
-}
-p1{
-    font-size: 20px;
+    background-color: #22386A;
+    color: white;
 }
 h2{
-    color: darkblue;
-    font-size: 30px;
+    color: #32BA66;
 }
-p2{
-    font-size: 17px;
-}
-h3{
-    color: darkblue;
-    font-size: 30px;
-}
-p3{
-    font-size: 17px;
-}
-h4{
-    color: darkblue;
-    font-size: 30px;
-}
-p4{
-    font-size: 17px;
-}
-h5{
-    color: darkblue;
-    font-size: 30px;
-}
-p5{
-    font-size: 17px;
-}
-h6{
-    color: darkblue;
-    font-size: 30px;
-}
-p6{
-    font-size: 17px;
-    color: dodgerblue;
+a{
+    color: red;
+    margin-right: 24px;
 }
